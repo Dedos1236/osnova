@@ -1,0 +1,10 @@
+{
+  "name": "НИТЬ (NIT) Messenger",
+  "description": "Hybrid C2S/Mesh Networking Environment with AI-powered L1-L4 Routing, KVM BLE Modulation, and Acoustic Layer Fallback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
